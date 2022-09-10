@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 
 # Hello
 - [nikhil.works](https://nikhil.works/)
-- [killswitch](https://killswitch.mx/)
