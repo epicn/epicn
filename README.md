@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hey
-[nikhil.works](https://nikhil.works/)
-[killswitch](https://killswitch.mx/)
+# Hello
+- [nikhil.works](https://nikhil.works/)
+- [killswitch](https://killswitch.mx/)
