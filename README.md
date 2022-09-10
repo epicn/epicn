@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<html>
+  <body>
+    <h1>Hey<src="./Fonts/VarelaRound-Regular.ttf"></h1>
+  </body>
+</html>
